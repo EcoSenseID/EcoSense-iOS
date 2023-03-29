@@ -1,0 +1,51 @@
+{
+    "error": false,
+    "message": "Reward homepage fetched successfully.",
+    "totalPoints": 0,
+    "walletRewards": [
+        {
+            "id": 1,
+            "bannerUrl": "https://storage.googleapis.com/ecosense-reward-posters/1667193269731-placeholder.png",
+            "title": "E-Wallet Rp5.000",
+            "partner": "EcoSense Indonesia",
+            "pointsNeeded": 5000
+        },
+        {
+            "id": 2,
+            "bannerUrl": "https://storage.googleapis.com/ecosense-reward-posters/1667197978288-placeholder.png",
+            "title": "E-Wallet Rp10.000",
+            "partner": "EcoSense Indonesia",
+            "pointsNeeded": 10000
+        },
+        {
+            "id": 3,
+            "bannerUrl": "https://storage.googleapis.com/ecosense-reward-posters/1667201369742-placeholder.png",
+            "title": "E-Wallet Rp20.000",
+            "partner": "EcoSense Indonesia",
+            "pointsNeeded": 20000
+        },
+        {
+            "id": 4,
+            "bannerUrl": "https://storage.googleapis.com/ecosense-reward-posters/1667646174379-placeholder.png",
+            "title": "E-Wallet Rp50.000",
+            "partner": "EcoSense Indonesia",
+            "pointsNeeded": 50000
+        },
+        {
+            "id": 6,
+            "bannerUrl": "https://storage.googleapis.com/ecosense-reward-posters/1668265802992-placeholder.png",
+            "title": "E-Wallet Rp75.000",
+            "partner": "EcoSense Indonesia",
+            "pointsNeeded": 75000
+        }
+    ],
+    "donationRewards": [
+        {
+            "id": 5,
+            "bannerUrl": "https://storage.googleapis.com/ecosense-reward-posters/1667882538794-placeholder.png",
+            "title": "Donasi Panti Asuhan Sayang Anak",
+            "partner": "EcoSense Indonesia",
+            "pointsNeeded": 10000
+        }
+    ]
+}
